@@ -19,13 +19,13 @@ public class Task1_3 {
         // [10と2を乗算した値の代入を指示]
         int multiply = 10 * 2;
         // ④ 20 を 6 で割った余りを代入する、変数 remi を作成しなさい。
-        int remi = 20 / 6;
+        int remi = 20 % 6;
         // ⑤下記の処理について、何をしているのかコメントを記入してください
         // [有楽町と線の文字列の指定]
         String town = "有楽町";
         String line = "線";
         // ⑥ ⑤で作成した変数を連結させた値を代入する変数 train を作成しなさい。
-        String train = String town +String line; 
+        String train = town + line; 
         // ⑦ 変数plus, minus, multiply, remi, train をそれぞれ出力しなさい。
         System.out.println(plus);
         System.out.println(minus);
