@@ -1,0 +1,27 @@
+header{
+	background-color: gray;
+	margin-bottom:20px;
+}
+.login{
+	font-size: 30px;
+	color: white;
+	padding: 10px;
+}
+.label-1{
+	display: inline;
+	padding: 10px;
+}
+jsp.Test.jsp{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+footer{
+	background-color: gray;
+	margin-top:20px;
+}
+.label-2{
+	display: inline;
+	font-size: 30px;
+	padding: 10px;
+	color: white;
+}

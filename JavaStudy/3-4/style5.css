@@ -1,0 +1,53 @@
+.cleafix::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.wrapper{
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+}
+.main-1{
+    width: 600px;
+    height: 150px;
+    background-color: #FFFF00;
+    float: left;
+}
+.main-2{   
+    width: 200px;
+    height: 150px;
+    background-color: #33FFFF;
+    float: left;
+}
+.main-3{   
+    width: 200px;
+    height: 150px;
+    background-color: #FF0000;
+    float: left;
+}
+.main-4{   
+    width: 200px;
+    height: 150px;
+    background-color: #0000FF;
+    float: right;
+}
+.main-5{   
+    width: 450px;
+    height: 150px;
+    background-color: #00FF00;
+    float: left;
+}
+.main-6{   
+    width: 150px;
+    height: 150px;
+    background-color: #FF00FF;
+    float: right;
+}
+.main-7{   
+    width: 600px;
+    height: 150px;
+    background-color: #33FFFF;
+    float: left;
+}
