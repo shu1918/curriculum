@@ -48,6 +48,7 @@
     }
     .right{
         width: 150px;
+        height: 400px;
     }
     .right-1{
         width:150px;
@@ -63,5 +64,9 @@
     }
     .footer{
         width: 150px;
+    }
+    .content {
+        width: auto;
+        float: none;
     }
 }
